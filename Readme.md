@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Константин Васенин](https://up.htmlacademy.ru/javascript/20/user/245078).
+* Студент: [Дубинкин Павел].
 * Наставник: `Неизвестно`.
 
 ---
